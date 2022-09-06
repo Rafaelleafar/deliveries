@@ -28,3 +28,4 @@ address.pack()
 Button(app, text="Salvar", command=save_data).pack()
 app.mainloop()
 
+# tirado  do  livro use a cabeça programação
